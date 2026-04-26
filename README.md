@@ -1,5 +1,3 @@
-Viewed adv-14-unit-kpi-definition.html:1-373
-
 針對 **`adv-14-unit-kpi-definition` (性能指標 KPI 定義)** 單元，這是將「實驗室原型」推向「商用級產品」的關鍵步驟。它要求學員不再憑感覺說「順不順」，而是學會建立 **量化指標**，並透過數據定義系統的 **服務水準協議 (SLA)** 與 **安全邊際 (Safety Boundary)**。
 
 以下是在 **GitHub Classroom** 部署其作業 (Assignments) 的具體建議：
