@@ -1,0 +1,12 @@
+name: GitHub Classroom Autograder
+on: [push]
+permissions:
+  checks: write
+  actions: read
+  contents: read
+jobs:
+  autograding:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: education/autograding@v1
