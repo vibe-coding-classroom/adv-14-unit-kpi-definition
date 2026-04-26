@@ -1,0 +1,11 @@
+{
+  "name": "adv-14-unit-kpi-definition",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "KPI Definition and Performance Benchmarking unit",
+  "scripts": {
+    "test": "node tests/grading.test.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
